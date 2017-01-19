@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello Agent!!!"); /* prints !!!Hello Agent!!! */
+	printf("!!!Hello Agent!!!"); /* prints !!!Hello Agent!!! */
 	return EXIT_SUCCESS;
 }
